@@ -9,7 +9,7 @@ In order to use SEND EMAIL API from SENDGRID  you have to create an acc, then ge
 
 3. ONCE API KEY IS CREATED, PUT IT INTO THE HTTP HEADER AS WHO BELOW: 
 "--url" -> "https://api.sendgrid.com/v3/mail/send" (ENDPOINT-TO USE AND SEND DYNAMICS EMAIL)
-"Authorization" -> "Bearer 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" (APIKEY)
+"Authorization" -> "Bearer <<Your API KEY>>" (APIKEY)
 "Content-Type" -> "Application/JSON"
 
 
